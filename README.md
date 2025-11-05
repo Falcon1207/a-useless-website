@@ -1,5 +1,5 @@
-# a-useless-website
+# useless_website
 
-A useless website (hack club)
+getbacktowork
 
 Made with Hack Club Spaces 💖
